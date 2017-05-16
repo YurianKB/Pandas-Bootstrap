@@ -1,0 +1,21 @@
+*{
+  font-family: 'Barrio', cursive;
+  color: black;
+}
+
+.nav{
+  background-color: #72D87A;
+}
+
+#contenedorPandas{
+  display: flex;
+  background-color: #B9B9B9;
+}
+
+.container-fluid{
+  background-color: #BCFFB1;
+}
+
+.col-md-6{
+  background-color: #B9B9B9;
+}
